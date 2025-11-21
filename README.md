@@ -1,2 +1,2 @@
-# e-store
-E Store Project using java technology
+# online-book-store
+Online Book Store Project using Java and Spring Boot
