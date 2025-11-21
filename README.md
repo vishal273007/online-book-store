@@ -1,2 +1,2 @@
-# online-book-store
-Online Book Store Project using Java and Spring Boot
+# Online Book Store
+This is a Online Book Store Project built using Java and Spring Boot
